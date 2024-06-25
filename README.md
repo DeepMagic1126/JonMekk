@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 👀 I’m interested in flow-engine and distributed-system
 - 🌱 I’m currently learning Java/Go/Python
 
-[![Stellar's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonMekk&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Stellar's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonMekk&theme=onedark)]
